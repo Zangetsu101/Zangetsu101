@@ -31,8 +31,6 @@ I'm Tameem, a Fullstack Engineer with a passion for cutting through technical ch
 
 **Tech Stack:** Next.js, PostgreSQL, Prisma, Tailwind CSS, D3.js
 
-[![GitHub Stats](./profile/stats.svg)](https://github.com/Zangetsu101)
-
 ### Fun Fact
 My GitHub handle "Zangetsu" comes from the iconic sword in Bleach anime, symbolizing precision, strength, and the ability to cut through any obstacle - qualities I bring to my technical work every day.
 
