@@ -29,7 +29,7 @@ I'm Tameem, a Fullstack Engineer with a passion for cutting through technical ch
 ### Open Source Contributions
 **[Nametag](https://github.com/mattogodoy/nametag)** - Contributor to an open-source Personal Relationship Manager. Notable contribution: improved relationship visualization in the network graph with person-centric display and bidirectional edge highlighting. Built with Next.js, PostgreSQL, Prisma, Tailwind CSS, and D3.js.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zangetsu101&show_icons=true&theme=radical)](https://github.com/Zangetsu101)
+[![GitHub Stats](./profile/stats.svg)](https://github.com/Zangetsu101)
 
 ### Fun Fact
 My GitHub handle "Zangetsu" comes from the iconic sword in Bleach anime, symbolizing precision, strength, and the ability to cut through any obstacle - qualities I bring to my technical work every day.
