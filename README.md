@@ -1,5 +1,5 @@
 # Tameem / Zangetsu101
-## Fullstack Engineer | Core Maintainer & Tech Lead at OpenCRVS
+## Fullstack Engineer | Core Maintainer & Tech Lead at [OpenCRVS](https://github.com/opencrvs/opencrvs-core)
 
 > Slaying Moon 🌙 - Empowering digital civil registration worldwide
 
