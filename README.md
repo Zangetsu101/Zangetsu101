@@ -14,18 +14,12 @@ I'm Tameem, a Fullstack Engineer with a passion for cutting through technical ch
 - Empowering digital public good that serves developing nations worldwide
 
 **OpenCRVS Tech Stack**
-- Backend Arsenal: Node.js, TypeScript, GraphQL, Docker Swarm
-- Frontend Edge: React, Redux, Progressive Web Apps
-- Infrastructure Forge: Microservices, Elasticsearch, Minio
-- DevOps Blade: CI/CD, monitoring, SSL configuration
-
-### Technical Skills
-- **Backend Arsenal**: Node.js, TypeScript, GraphQL, Docker Swarm, MongoDB
-- **Frontend Edge**: React, Redux, TypeScript, Tailwind CSS, Progressive Web Apps
-- **Infrastructure Forge**: Microservices, Docker, Kubernetes, Elasticsearch, Minio
-- **DevOps Blade**: CI/CD pipelines, monitoring, SSL configuration, cloud deployment
-- **Database Mastery**: PostgreSQL, MongoDB, Redis
-- **API Design**: RESTful APIs, GraphQL, OpenAPI specifications
+- Backend Arsenal: Node.js, TypeScript, Hapi.js, GraphQL, tRPC, Zod, Joi
+- Frontend Edge: React, Redux, React Router, TanStack Query, Apollo Client, tRPC, Zustand, Formik, styled-components, Vite, Progressive Web Apps
+- Infrastructure Forge: Kubernetes, Helm, Ansible, MinIO
+- DevOps Blade: GitHub Actions, Docker, Kubernetes, Helm, Kibana, ElastAlert, APM
+- Database Mastery: PostgreSQL, MongoDB, Redis, Elasticsearch, InfluxDB
+- API Design: REST, GraphQL, tRPC
 
 ### Get In Touch
 - **LinkedIn**: [https://www.linkedin.com/in/tameem-bin-haider-516871202/](https://www.linkedin.com/in/tameem-bin-haider-516871202/)
