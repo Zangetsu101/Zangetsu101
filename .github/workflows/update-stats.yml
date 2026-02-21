@@ -8,7 +8,7 @@ on:
       options:
         description: 'Stats card options (query string format)'
         required: false
-        default: 'show_icons=true&hide_rank=true&include_all_commits=true&hide_border=true&theme=transparent&border_radius=8&show=reviews,prs_merged&hide=issues'
+        default: 'show_icons=true&hide_rank=true&include_all_commits=true&hide_border=true&theme=transparent&show=reviews,prs_merged&hide=issues'
 
 jobs:
   update-stats:
@@ -23,7 +23,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: ${{ github.event.inputs.options || 'show_icons=true&hide_rank=true&include_all_commits=true&hide_border=true&theme=transparent&border_radius=8&show=reviews,prs_merged&hide=issues' }}
+          options: ${{ github.event.inputs.options || 'show_icons=true&hide_rank=true&include_all_commits=true&hide_border=true&theme=transparent&show=reviews,prs_merged&hide=issues' }}
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
