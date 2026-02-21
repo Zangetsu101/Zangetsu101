@@ -27,7 +27,9 @@ I'm Tameem, a Fullstack Engineer with a passion for cutting through technical ch
 - **GitHub**: [@Zangetsu101](https://github.com/Zangetsu101)
 
 ### Open Source Contributions
-**[Nametag](https://github.com/mattogodoy/nametag)** - Contributor to an open-source Personal Relationship Manager. Notable contribution: improved relationship visualization in the network graph with person-centric display and bidirectional edge highlighting. Built with Next.js, PostgreSQL, Prisma, Tailwind CSS, and D3.js.
+**[Nametag](https://github.com/mattogodoy/nametag)** - Contributor to an open-source Personal Relationship Manager. Notable contribution: improved relationship visualization in the network graph with person-centric display and bidirectional edge highlighting.
+
+**Tech Stack:** Next.js, PostgreSQL, Prisma, Tailwind CSS, D3.js
 
 [![GitHub Stats](./profile/stats.svg)](https://github.com/Zangetsu101)
 
