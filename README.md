@@ -16,8 +16,8 @@ I'm Tameem, a Fullstack Engineer with a passion for cutting through technical ch
 **OpenCRVS Tech Stack**
 - Backend Arsenal: Node.js, TypeScript, Hapi.js, GraphQL, tRPC, Zod, Joi
 - Frontend Edge: React, Redux, React Router, TanStack Query, Apollo Client, tRPC, Zustand, Formik, styled-components, Vite, Progressive Web Apps
-- Infrastructure Forge: Kubernetes, Helm, Ansible, MinIO
-- DevOps Blade: GitHub Actions, Docker, Kubernetes, Helm, Kibana, ElastAlert, APM
+- Infrastructure Forge: Kubernetes, Helm, Docker, Ansible, MinIO
+- DevOps Blade: GitHub Actions, Kibana, ElastAlert, APM, Sentry
 - Database Mastery: PostgreSQL, MongoDB, Redis, Elasticsearch, InfluxDB
 - API Design: REST, GraphQL, tRPC
 
