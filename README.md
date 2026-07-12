@@ -1,42 +1,50 @@
-# Tameem / Zangetsu101
-## Fullstack Engineer | Core Maintainer & Tech Lead at [OpenCRVS](https://github.com/opencrvs/opencrvs-core)
+# Tameem Bin Haider
+### Senior Full-Stack Engineer · Core Maintainer & Tech Lead at [OpenCRVS](https://github.com/opencrvs/opencrvs-core)
 
-> Slaying Moon 🌙 - Empowering digital civil registration worldwide
+I build and maintain OpenCRVS — the open-source civil registration platform **7 governments**
+use to record births, deaths, and legal identity. Bugs in this domain carry legal consequences,
+so my work centers on data integrity, fault tolerance, and compliance-grade security — software
+that ships **offline-first** to regions where connectivity fails. I lead an **8-engineer team**
+and ship **weekly releases** to registries serving **millions of citizens**.
 
-### About Me
-I'm Tameem, a Fullstack Engineer with a passion for cutting through technical challenges and forging innovative solutions. As a Core Maintainer & Tech Lead at OpenCRVS, I help maintain critical government infrastructure that serves developing nations. My GitHub handle "Zangetsu" (Slaying Moon) represents my commitment to precision, effectiveness, and continuous improvement in the tech world.
+### Highlights
 
-### Current Work
-**Core Maintainer & Tech Lead at OpenCRVS**
-- Leading the development and maintenance of OpenCRVS, an open-source digital solution for civil registration
-- Cutting through technical challenges to ensure reliable government infrastructure
-- Forging scalable solutions using modern tech stack: TypeScript, Node.js, React, and microservices
-- Empowering digital public good that serves developing nations worldwide
+- Led a production **MongoDB → PostgreSQL** migration for a national-scale citizen registry —
+  unified querying, eliminated cross-store inconsistencies
+- Made microservices **5x–10x faster** via query optimization, caching, and data-model
+  refactoring — a prerequisite for low-connectivity deployments
+- Cut core registration flows from a **15-second freeze to <500ms** via React profiling
+  and memoization
+- Replaced hardcoded role permissions with a **declarative scope-based authorization system**
+  used across the platform
 
-**OpenCRVS Tech Stack**
-- Backend Arsenal: Node.js, TypeScript, Hapi.js, GraphQL, tRPC, Zod, Joi
-- Frontend Edge: React, Redux, React Router, TanStack Query, Apollo Client, tRPC, Zustand, Formik, styled-components, Vite, Progressive Web Apps
-- Infrastructure Forge: Kubernetes, Helm, Docker, Ansible, MinIO
-- DevOps Blade: GitHub Actions, Kibana, ElastAlert, APM, Sentry
-- Database Mastery: PostgreSQL, MongoDB, Redis, Elasticsearch, InfluxDB
-- API Design: REST, GraphQL, tRPC
+### Projects
 
-### Get In Touch
-- **LinkedIn**: [https://www.linkedin.com/in/tameem-bin-haider-516871202/](https://www.linkedin.com/in/tameem-bin-haider-516871202/)
-- **Email**: [haidertameem@gmail.com](mailto:haidertameem@gmail.com)
-- **GitHub**: [@Zangetsu101](https://github.com/Zangetsu101)
+**[pass.android](https://github.com/Zangetsu101/android-pass-store)** — Android client for
+`pass(1)` with a layered key chain: Ed25519 SSH for Git sync, Keystore-wrapped GPG blob,
+biometric-gated decryption, and dual autofill (AutofillService + Credential Manager).
+Kotlin · Jetpack Compose · JGit · PGPainless · Android Keystore
 
-### Open Source Contributions
-**[Nametag](https://github.com/mattogodoy/nametag)** - Contributor to an open-source Personal Relationship Manager. Notable contribution: improved relationship visualization in the network graph with person-centric display and bidirectional edge highlighting.
+**[Nametag](https://github.com/mattogodoy/nametag)** — upstream contributor to an open-source
+personal relationship manager: person-centric network-graph visualization with bidirectional
+edge highlighting.
+Next.js · PostgreSQL · Prisma · Tailwind CSS · D3.js
 
-**Tech Stack:** Next.js, PostgreSQL, Prisma, Tailwind CSS, D3.js
+### Stack
 
-### Fun Fact
-My GitHub handle "Zangetsu" comes from the iconic sword in Bleach anime, symbolizing precision, strength, and the ability to cut through any obstacle - qualities I bring to my technical work every day.
+**Languages:** TypeScript, Kotlin
+**Frontend:** React, Next.js, Redux, TanStack Query, Apollo GraphQL
+**Backend:** Node.js, GraphQL, PostgreSQL, tRPC, Redis, Elasticsearch
+**Testing:** Jest, React Testing Library, Vitest, Playwright
+**DevOps:** Docker, Kubernetes, GitHub Actions, Sentry
 
-### Pronouns
-He/him
+### Get in Touch
+
+[LinkedIn](https://www.linkedin.com/in/tameem-bin-haider-516871202/) ·
+[haidertameem@gmail.com](mailto:haidertameem@gmail.com)
 
 ---
 
-*Last Updated: February 2026*
+*"Zangetsu" (Slaying Moon) — the sword from Bleach.*
+
+He/him
