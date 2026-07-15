@@ -33,9 +33,13 @@ Next.js · PostgreSQL · Prisma · Tailwind CSS · D3.js
 ### Stack
 
 **Languages:** TypeScript, Kotlin
+
 **Frontend:** React, Next.js, Redux, TanStack Query, Apollo GraphQL
+
 **Backend:** Node.js, GraphQL, PostgreSQL, tRPC, Redis, Elasticsearch
+
 **Testing:** Jest, React Testing Library, Vitest, Playwright
+
 **DevOps:** Docker, Kubernetes, GitHub Actions, Sentry
 
 ### Get in Touch
