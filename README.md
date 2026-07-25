@@ -30,10 +30,6 @@ personal relationship manager: person-centric network-graph visualization with b
 edge highlighting.
 Next.js · PostgreSQL · Prisma · Tailwind CSS · D3.js
 
-### Blogs
-
-Read my technical articles on **[DEV Community](https://dev.to/zangetsu101)**.
-
 ### Stack
 
 **Languages:** TypeScript, Kotlin
@@ -45,6 +41,10 @@ Read my technical articles on **[DEV Community](https://dev.to/zangetsu101)**.
 **Testing:** Jest, React Testing Library, Vitest, Playwright
 
 **DevOps:** Docker, Kubernetes, GitHub Actions, Sentry
+
+### Blogs
+
+Read my technical articles on **[DEV Community](https://dev.to/zangetsu101)**.
 
 ### Get in Touch
 
