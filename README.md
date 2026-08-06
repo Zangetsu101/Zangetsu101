@@ -1,5 +1,5 @@
 # Tameem Bin Haider
-### Senior Full-Stack Engineer · Core Maintainer & Tech Lead at [OpenCRVS](https://github.com/opencrvs/opencrvs-core)
+### Full-Stack Engineer · Core Maintainer & Tech Lead at [OpenCRVS](https://github.com/opencrvs/opencrvs-core)
 
 I build and maintain OpenCRVS — the open-source civil registration platform **7 governments**
 use to record births, deaths, and legal identity. Bugs in this domain carry legal consequences,
